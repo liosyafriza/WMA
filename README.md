@@ -1,6 +1,7 @@
 NAMA : LIO SYAFRIZA
 NIM  : E41202163
-(https://user-images.githubusercontent.com/80315321/136398391-aa260bd0-ee93-4cdd-9ff6-6a2fb8b04bc5.png)
-![my listview ](https://user-images.githubusercontent.com/80315321/136398399-7dcd6d20-fb74-424a-8096-a09a32fc13af.png)
-![reycleviewmovie](https://user-images.githubusercontent.com/80315321/136398402-c1f68193-1677-4e66-9e5d-6eb86c06f017.png)
-![spinner](https://user-images.githubusercontent.com/80315321/136398406-3de0ec83-9d0a-4d4f-803d-20e6b3e251c0.png)
+
+![my listview ](https://user-images.githubusercontent.com/80315321/136399305-dd50c4bf-063b-4c61-a8f0-150caee0a659.png)
+![spinner](https://user-images.githubusercontent.com/80315321/136399336-fea24e17-c2a2-45e6-885e-cc5889c567d8.png)
+![autocompleteview](https://user-images.githubusercontent.com/80315321/136399367-63d4b83e-b93a-4bad-9c99-f689f18423eb.png)
+![reycleviewmovie](https://user-images.githubusercontent.com/80315321/136399405-2668e58e-a74f-4a72-a5f0-8a06685a99b8.png)

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Spinner E41202163</string>
+    <string-array name="country">
+    <item>indonesia</item>
+    <item>malaysia</item>
+    <item>thailand</item>
+    <item>venezuela</item>
+    <item>spanyol</item>
+    <item>perancis</item>
+    <item>mekkah</item>
+    </string-array>
+</resources>
